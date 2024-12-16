@@ -1,0 +1,10 @@
+F:\DS\Exer012\Exer012\bin\Debug\Exer012.exe.config
+F:\DS\Exer012\Exer012\bin\Debug\Exer012.exe
+F:\DS\Exer012\Exer012\bin\Debug\Exer012.pdb
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.csprojAssemblyReference.cache
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.Form1.resources
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.Properties.Resources.resources
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.csproj.GenerateResource.cache
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.csproj.CoreCompileInputs.cache
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.exe
+F:\DS\Exer012\Exer012\obj\Debug\Exer012.pdb
